@@ -5,10 +5,15 @@ Profissional de administração, apaixonado por tecnologia, estudando análise e
 <img height="180cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenanPortes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)">         
 </div>
 
-</div style="display: inline_block"<br>
-<img allign="center" height="30" width="40"  src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" alt="HTML">
-<img allign="center" height="30" width="40"  src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4" alt="CSS">
-<img allign="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
-
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
+</div>
+<br>
+<div>
+<a href = "mailto:portesud@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/renan-portes-adm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renan-portes-adm/)
