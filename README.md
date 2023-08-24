@@ -1,5 +1,5 @@
 ### Olá 👋 Eu sou o Renan.
-Profissional de administração, apaixonado por tecnologia, estudando análise edesenvolvimento de sistemas(Unifor), em busca do senho de ser desenvolvedor de software.
+Profissional de administração, apaixonado por tecnologia, estudando análise e desenvolvimento de sistemas(Unifor), em busca do sonho de ser desenvolvedor de software.
 <div>
 <a href="https://github.com/RenanPortes">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RenanPortes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
@@ -16,6 +16,5 @@ Profissional de administração, apaixonado por tecnologia, estudando análise e
 <a href = "mailto:portesud@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-portes-adm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-   ![Snake animation](https://github.com/RenanPortes/RenanPortes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
